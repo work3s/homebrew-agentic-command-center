@@ -1,6 +1,6 @@
 cask "work3s" do
-  version "0.2.0"
-  sha256 "f52248e2549748ed5db0dc7dc97ad720e0001bc2d41da0b3b60c1ec7cb835f7d"
+  version "0.3.0"
+  sha256 "448e86fee275d86058f15728d6d45d3481d685bd43cc16bbad42d35690b0e7b1"
 
   url "https://github.com/EddyFromPoker/work3s-desktop/releases/download/v#{version}/Work3s_#{version}_aarch64.dmg"
   name "Work3s"

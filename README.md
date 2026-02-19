@@ -5,7 +5,7 @@ Agentic command center for Git worktrees.
 ## Installation
 
 ```bash
-brew tap EddyFromPoker/work3s
+brew tap work3s/agentic-command-center
 brew install --cask work3s
 ```
 

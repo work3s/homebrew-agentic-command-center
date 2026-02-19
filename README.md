@@ -1,6 +1,6 @@
 # Homebrew Tap for Work3s
 
-Git worktree management for macOS.
+Agentic command center for Git worktrees.
 
 ## Installation
 

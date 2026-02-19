@@ -4,7 +4,7 @@ cask "work3s" do
 
   url "https://github.com/work3s/desktop/releases/download/v#{version}/Work3s_#{version}_aarch64.dmg"
   name "Work3s"
-  desc "Git worktree management for macOS"
+  desc "Agentic command center for Git worktrees"
   homepage "https://github.com/work3s/desktop"
 
   livecheck do

@@ -1,10 +1,10 @@
 cask "work3s" do
-  version "0.5.41"
-  sha256 "9997b8999f1d217bb685948b5a6b89fbb5f31e7b431a90d76581423b17da47a0"
+  version "0.5.42"
+  sha256 "d2c2f234873ea0947f500c17a0399854eb9f2f293945835bbe859ca6078aaab0"
 
   url "https://github.com/work3s/desktop/releases/download/v#{version}/Work3s_#{version}_aarch64.dmg"
   name "Work3s"
-  desc "Agentic command center for Git worktrees"
+  desc "Git worktree management for macOS"
   homepage "https://github.com/work3s/desktop"
 
   livecheck do

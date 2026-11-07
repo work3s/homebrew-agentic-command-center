@@ -1,6 +1,6 @@
 cask "work3s" do
-  version "0.6.5"
-  sha256 "e9207e5f891e1fefec23ce8c430cf1fec4dcf91d94c079fbdb1b2c5566ce69d1"
+  version "0.7.0"
+  sha256 "422dd84ae50b2d777fcc9974566dfa7c5486c67a0de1d0aadaaafc90c3ddc701"
 
   url "https://github.com/work3s/desktop/releases/download/v#{version}/Work3s_#{version}_aarch64.dmg"
   name "Work3s"
